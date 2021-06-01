@@ -1,12 +1,12 @@
-#### Hello
+## Hello
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=jaguarcode&fontSize=70)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaguarcode%2Fhit-counter&count_bg=%23567EDD&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=wow&edge_flat=false)](https://hits.seeyoufarm.com)
 
-#### Github Status
+### Github Status
 [![Jaguarcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaguarcode)](https://github.com/jaguarcode/github-readme-stats)
 
-#### Tech stacks
-##### Programming Languages
+### Tech stacks
+#### Programming Languages
 <p align="left">
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -22,7 +22,7 @@
   <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
-##### Databases
+#### Databases
 <p align="left">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -32,13 +32,13 @@
   , MSSql, Redis
 </p>
 
-##### Hosting
+#### Hosting
 <p align="left">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 </p>
 
-##### Frameworks and libraries
+#### Frameworks and libraries
 <p align="left">
   <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
@@ -56,7 +56,7 @@
   <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?&style=for-the-badge&logo=opengl"/>
 </p>
 
-##### Other
+#### Other
 <p align="left">
   <img alt="CMake" src="https://img.shields.io/badge/CMake-%23008FBA.svg?&style=for-the-badge&logo=cmake&logoColor=white"/>
   <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
@@ -69,7 +69,7 @@
 
 </p>
 
-##### Operating Systems
+#### Operating Systems
 <p align="left">
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Redhat" src="https://img.shields.io/badge/Redhat-E95420?style=for-the-badge&logo=redhat&logoColor=white" />
