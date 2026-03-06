@@ -6,7 +6,7 @@
 
 ## 🎯 Career Overview
 
-**Niche Expert** - Top-tier developer in the domestic defense tech field  
+**Niche Expert** - Top-tier developer in the domestic defense tech & AI field  
 **Technology Evangelist** - Consistent presenter at Unreal Fest and I/ITSEC  
 **15+ Years of Experience** - Cross-platform development to XR simulation systems
 
@@ -45,6 +45,12 @@
 18. **FA-50 VR Flight Simulator** - Design/Development
 19. **KUH VR Flight Simulator & Digital Twin** - Design/Development
 20. **FA-50 VR Maintenance Simulator** - Design/Development
+
+### ** Simulation & DigitalTwin & AI Era**
+21. **AI-based All-Domain Simulation 'JaguarEngine'** - Design/Development
+22. **AI-based UAV Swarm Simulation** - Design/Development
+23. **Geo AI Service** - Design/Development
+24. **Unreal Engine AI Agent 'Unreal Master'** - Design/Development
 
 ---
 
