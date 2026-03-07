@@ -46,7 +46,7 @@
 19. **KUH VR Flight Simulator & Digital Twin** - Design/Development
 20. **FA-50 VR Maintenance Simulator** - Design/Development
 
-### ** Simulation & DigitalTwin & AI Era**
+### **Simulation & DigitalTwin & AI Era**
 21. **AI-based All-Domain Simulation 'JaguarEngine'** - Design/Development
 22. **AI-based UAV Swarm Simulation** - Design/Development
 23. **Geo AI Service** - Design/Development
